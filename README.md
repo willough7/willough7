@@ -1,12 +1,12 @@
-## Hello, Welcome to my gitHub
+## Hello, Welcome to my GitHub
 
-My name is Austin Willoughby. I am currently studying Software engineering and Computer Science at the University of Indianapolis.
+My name is Austin Willoughby. I am currently studying Software Engineering and Computer Science at the University of Indianapolis.
 
 ### A little about me:
 
-- I currently Swim for the University of Indianapolis. I am a freestyle sprinter and was able to qualify for the 2026 division II NCAA national meet. 
+- I currently swim for the University of Indianapolis. I am a freestyle sprinter and was able to qualify for the 2026 NCAA Division II national meet. 
 
-- I am a member of Chi Alpha Sigma, a national academic honor society for student athletes.
+- I am a member of Chi Alpha Sigma, a national academic honor society for student-athletes.
   
 - I am a CSCAA Scholar All-American.
 
@@ -18,21 +18,21 @@ My name is Austin Willoughby. I am currently studying Software engineering and C
 
 # Some projects I have worked on
 
-* **[Virtual reality Experience](https://uindy-engr-296-298.github.io/vrxp/)**
-  * **Description:** A guided Virtual tour of the Uindy campus, created using primitive software.
+* **[Virtual Reality Experience](https://uindy-engr-296-298.github.io/vrxp/)**
+  * **Description:** A guided virtual tour of the UIndy campus, created using primitive software.
   * **Tech Stack:** `A-Frame` `ThreeJS` `WebXR`
   * **Links:** [Repository](https://github.com/UINDY-ENGR-296-298/vrxp)
 
 * **[Google Calendar Automation](https://github.com/202510-SWEN-200/FacultyAcademyEvents)**
-  * **Description:** Allows users to create google calendar events though the frontend and automatically invite the correct people
+  * **Description:** Allows users to create Google Calendar events through the frontend and automatically invite the correct people.
   * **Tech Stack:** `FastAPI` `Firebase` `N8N`
   * **Links:** [Repository](https://github.com/202510-SWEN-200/FacultyAcademyEvents)
-  * **Notes** Created for a class sophomore year however the semester ended before the full implementation could be completed. Core features are functional like user log in and auth, API calls, backend for memory, frontend UI.
+  * **Notes:** Created for a class sophomore year; however, the semester ended before the full implementation could be completed. Core features are functional like user login and auth, API calls, backend for memory, frontend UI.
  
-  * **[Image enhancement](https://colab.research.google.com/drive/18qZ4vYcqfe9hVfVfMxCvYZ0LteUTRlVN?usp=sharing)**
-  * **Description:** A simple image enhancement model. Using tensorflow generators to pipeline data.
-  * **Tech Stack:** `Tensorflow` `AI`
-  * **Final Report:** (https://docs.google.com/document/d/143lUcPu22af1ssl4vApWUTpiWnhmVGQP_qddqCDKUsg/edit?usp=sharing)
+* **[Image Enhancement](https://colab.research.google.com/drive/18qZ4vYcqfe9hVfVfMxCvYZ0LteUTRlVN?usp=sharing)**
+  * **Description:** A simple image enhancement model using TensorFlow generators to pipeline data.
+  * **Tech Stack:** `TensorFlow` `AI`
+  * **Links:** [Final Report](https://docs.google.com/document/d/143lUcPu22af1ssl4vApWUTpiWnhmVGQP_qddqCDKUsg/edit?usp=sharing)
 
 
 ### Languages I am fluent in
