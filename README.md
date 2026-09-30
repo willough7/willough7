@@ -29,10 +29,10 @@ My name is Austin Willoughby. I am currently studying Software engineering and C
   * **Links:** [Repository](https://github.com/202510-SWEN-200/FacultyAcademyEvents)
   * **Notes** Created for a class sophomore year however the semester ended before the full implementation could be completed. Core features are functional like user log in and auth, API calls, backend for memory, frontend UI.
  
-  * **[Virtual reality Experience](https://uindy-engr-296-298.github.io/vrxp/)**
-  * **Description:** A guided Virtual tour of the Uindy campus, created using primitive software.
-  * **Tech Stack:** `A-Frame` `ThreeJS` `WebXR`
-  * **Links:** [Repository](https://github.com/UINDY-ENGR-296-298/vrxp)
+  * **[Image enhancement](https://colab.research.google.com/drive/18qZ4vYcqfe9hVfVfMxCvYZ0LteUTRlVN?usp=sharing)**
+  * **Description:** A simple image enhancement model. Using tensorflow generators to pipeline data.
+  * **Tech Stack:** `Tensorflow` `AI`
+  * **Final Report:** (https://docs.google.com/document/d/143lUcPu22af1ssl4vApWUTpiWnhmVGQP_qddqCDKUsg/edit?usp=sharing)
 
 
 ### Languages I am fluent in
@@ -90,12 +90,7 @@ My name is Austin Willoughby. I am currently studying Software engineering and C
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-
-
 ### Connect with me!
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiah-brown-18212832a/)
 
